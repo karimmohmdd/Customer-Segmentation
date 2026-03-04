@@ -30,10 +30,3 @@ Based on the clustering algorithms, we identified **5 main customer segments**:
 - **Spendthrifts:** Low Income, High Spending.
 - **Sensible Customers:** Low Income, Low Spending.
 
-*(You can add your generated plots here)*
-![Cluster Visualization](link_to_your_image.png)
-
-## 💻 How to Run This Project
-1. Clone the repository:
-   ```bash
-   git clone [https://github.com/yourusername/customer-segmentation.git](https://github.com/yourusername/customer-segmentation.git)
